@@ -1,7 +1,7 @@
 /**
  * Serviço responsável por executar as operações da calculadora.
  *
- * @author Anderson L. Antunes
+ * @author Anderson L. Antunes<andersonlantunes@gmail.com>
  * @since 1.0.0
  */
 
@@ -11,7 +11,8 @@ import { Injectable } from '@angular/core';
   providedIn: 'root',
 })
 export class CalculadoraService {
-  /* Define as constantes utilizadas para identificar as operações da cálculo */
+  /* Define as constantes utilizadas
+     para identificar as operações da cálculo */
   static readonly SOMA: string = '+';
   static readonly SUBTRACAO: string = '-';
   static readonly DIVISAO: string = '/';
@@ -30,7 +31,7 @@ export class CalculadoraService {
    */
 
   calcular(num1: number, num2: number, operacao: string): number {
-    let resultado: number;
+    let resultado: number; // Armazena o resultado da operação
 
     switch (operacao) {
       case CalculadoraService.SOMA:
