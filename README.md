@@ -1,5 +1,9 @@
 # Calculadora
 
+## First project of a course of Angular 12 on Udemy
+
+(https://github.com/andyantunes/calculadora/blob/main/src/assets/prints/Screenshot%202021-06-01%20192841.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
