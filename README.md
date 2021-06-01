@@ -26,13 +26,11 @@ In this project a simple calculator with four operations was developed:
 ## Learnings
 * Use Bootstrap on Angular
 * Use services
-* Documentation of code with JSdoc
+* Code documentation with JSdoc
 * Organization with Barrels
 * Decorators - Component and Injectable
 * Unit tests with Jasmine and Karma
-* Life Cycle OnInit
-
-
+* Life Cycle - OnInit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
