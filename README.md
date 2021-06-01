@@ -26,7 +26,7 @@ In this project a simple calculator with four operations was developed:
 ## Learnings
 * Use Bootstrap on Angular
 * Use services
-* Code documentation with JSdoc
+* Code documentation with JSDoc
 * Organization with Barrels
 * Decorators - Component and Injectable
 * Unit tests with Jasmine and Karma
