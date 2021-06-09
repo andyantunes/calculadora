@@ -21,6 +21,7 @@ In this project a simple calculator with four operations was developed:
 * Multiplication
 * Division
 
+## Project's screenshots
 ![Print of project](https://github.com/andyantunes/calculadora/blob/main/src/assets/prints/calculadora.png)
 
 ## Learnings
